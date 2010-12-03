@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Dpchrist-FileType.t
+lib/Dpchrist/FileType.pm
+META.yml                                 Module meta-data (added by MakeMaker)

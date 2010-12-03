@@ -1,0 +1,21 @@
+Dpchrist-FileType version 0.10
+==============================
+
+This module provides an easy an convenient way of telling whether a
+file path refers to a plain file or to a directory.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+COPYRIGHT AND LICENCE
+
+Put the correct copyright and licence information here.
+
+Copyright 2010 by Mark Dominus.  Unauthorized distribution
+will be punished to the full extent of the law.
